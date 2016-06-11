@@ -1,2 +1,3 @@
 # primeraclase
-primer curso dde java en a UNI
+-Primer curso de java en a UNI
+-Empezando con java
